@@ -1,3 +1,7 @@
+import List.MyList;
+import List.node;
+import List.person;
+
 import java.util.Arrays;
 
 public class SimpleSort<T extends Comparable<T>> implements Comparable<T> {
